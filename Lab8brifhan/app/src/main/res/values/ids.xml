@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="btnMosque" type="id" />
-    <item name="btnSchool" type="id" />
-    <item name="btnHospital" type="id" />
-</resources>
